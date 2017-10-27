@@ -1,0 +1,20 @@
+ <!DOCTYPE RCC><RCC version="1.0">
+ <qresource>
+     <file>images/testmovie.png</file>
+     <file>images/label.png</file>
+     <file>images/new.png</file>
+     <file>images/subselection_tool.png</file>
+     <file>images/pointer.png</file>
+     <file>images/save.png</file>
+     <file>images/line.png</file>
+     <file>images/ellipse.png</file>
+     <file>images/rect.png</file>
+     <file>images/circle.png</file>
+     <file>images/addlayer.png</file>	
+     <file>images/removelayer.png</file>
+     <file>images/roundrect.png</file>
+     <file>images/logo_132.png</file>
+     <file>images/open.png</file>
+     <file>images/colors.png</file>
+ </qresource>
+ </RCC>

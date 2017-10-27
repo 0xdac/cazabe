@@ -1,0 +1,4 @@
+
+This module is inspired in the timeline module of the uira project, Copyright (C) 2005 Florian Delizy, Sergio Perez. The code was modified by Darien Alonso Camacho on 2010. Any bug in the code is not the fault of the original programmers because the code was totally rewrited.
+
+Thanks to uira developers.
